@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "Phaser Test",
+  "description": "A test game built with Phaser 3",
+  "type": "web",
+  "fullscreen": "true",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/assets/icons/ic_phaser_test_56.png",
+    "112": "/assets/icons/ic_phaser_test_112.png"
+  },
+  "developer": {
+    "name": "Mircea Dogaru"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Phaser Test",
+      "subtitle": "A test game built with Phaser 3",
+      "description": "A test game built with Phaser 3"
+    }
+  },
+  "default_locale": "en-US",
+  "orientation": [ "portrait-primary" ]
+}
